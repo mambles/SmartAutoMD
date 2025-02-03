@@ -1,10 +1,7 @@
 ![Third Warning](https://github.com/user-attachments/assets/4a46a200-5de7-4722-962d-4c33ea3e49b7)
 # //WARNING
-### - Script is set to work with my sinking team for now, later updates will allow team/ego gear customization.
 ### - Script will run indefinitely, ALT + S is required to stop it for now.
 ### - Script Requires 1920x1080 display size and a fullscreened game.
-![LimbusCompany_ax1hfbDnUL](https://github.com/user-attachments/assets/81409db5-b90e-4df4-b954-e632fead7e27)
-(example of current team selection)
 
 ![Enkephalin](https://github.com/user-attachments/assets/3607bba8-dbd5-45c2-9bff-def0c75716c6)
 # // FEATURES 
