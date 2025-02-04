@@ -24,5 +24,5 @@
 
 ![notes](https://github.com/user-attachments/assets/cf9c7832-fd4c-48ed-a932-a58ee75fdb97)
 # //NOTES
-### Bugs are to be expected, not every encounter reward is included, meaning there is a chance for it to freeze up on that screen.
-### Lots of features to come, including fusing, gift enhancement, ego gift reward choice, auto ego use based on struggling/hopeless, team customization, MD count and starting star gift customization.
+### Bugs are to be expected
+### Lots of features to come, including fusing, gift enhancement, ego gift reward choice, auto ego use based on struggling/hopeless, MD count.
